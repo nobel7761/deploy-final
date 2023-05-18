@@ -267,13 +267,13 @@ const App = () => {
   return (
     <div>
       <div className="w-1/2 flex flex-col items-center my-10 mx-auto">
-        {/* <Image
+        <Image
           alt="logo"
           src="https://apurba.com.bd/themes/images/apurba_bangladesh_logo.png"
           width={200}
           height={200}
           priority
-        /> */}
+        />
 
         <p className="text-cyan-400 text-2xl font-bold uppercase my-4">
           424B2 Tools
